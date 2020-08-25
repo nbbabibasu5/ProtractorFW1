@@ -13,7 +13,7 @@ describe('demo calculator tests', function(){
 
     homepage.verifyResult('8');
 
-    browser.sleep(3000)
+    browser.sleep(5000)
 
   });
     
